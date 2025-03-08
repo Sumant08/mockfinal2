@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Master modification 5
+=======
+Modified second branch file5.txt
+>>>>>>> 356a0cd809b4b4cc70d4f12bba6d7415401133f7
